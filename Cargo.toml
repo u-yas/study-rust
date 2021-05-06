@@ -1,0 +1,8 @@
+[package]
+name = "study-rust"
+version = "0.1.0"
+authors = ["u-yas <uyas-for-job@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.3"
